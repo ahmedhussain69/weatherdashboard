@@ -21,6 +21,9 @@ If the user wants to see the past search city weather condition again, just clic
 
 ### Screenshots:
 
+![image](https://user-images.githubusercontent.com/83966515/211077727-ff1cd05e-6cd7-44db-a2d7-fc631ac59451.png)
+
+
 Technologies 🔧
 
     HTML
